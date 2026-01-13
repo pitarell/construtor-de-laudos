@@ -1,0 +1,19 @@
+﻿# node
+node_modules
+dist
+build
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# python
+__pycache__
+*.pyc
+.venv
+
+# misc
+.DS_Store
+.vscode
+uploads_tmp
